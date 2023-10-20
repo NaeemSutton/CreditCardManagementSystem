@@ -1,18 +1,10 @@
-# Project Name
-
+# Credit Card Management System
 Welcome to the Customers Management System README. This document serves as an introduction to our project, providing an overview of its purpose, features, and how to get started. Please read through this README to gain a comprehensive understanding of my project.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
