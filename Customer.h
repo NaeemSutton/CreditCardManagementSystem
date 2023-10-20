@@ -1,20 +1,3 @@
-//Copyright [2023]
-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/* 
- * File:   Customer.h
- * Author: hloi
- *
- * Created on November 24, 2018, 2:13 PM
- */
-
-
-
 
 #ifndef CUSTOMER_H
 #define CUSTOMER_H
